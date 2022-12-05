@@ -1,0 +1,10 @@
+0001 //00: SecondHand code
+ID1234 //UserName
+[당근 팝니다] //Title
+2022.12.06. 04:00 //WritingTime
+Seoul //Location
+2 //InterestNum
+[구매] //comment
+
+
+
